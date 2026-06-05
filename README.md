@@ -1,5 +1,25 @@
-## Hi there 👋
 
+# Hi, I'm Priti Shinde 👋
+
+🎓 Final-year Computer Science Engineering Student
+
+💻 Interested in Data Analytics, AI/ML, and Software Engineering
+
+🔧 Skills:
+- Python
+- SQL
+- Power BI
+- Java
+- Machine Learning
+
+🚀 Projects:
+- Customer Churn Prediction
+- Heart Disease Prediction
+- Resume Manager System
+- Car Rental System
+- Hotel Booking System
+
+📫 Open to internships and full-time opportunities
 <!--
 **priti-1908/priti-1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
